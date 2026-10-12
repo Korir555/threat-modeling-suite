@@ -4,13 +4,13 @@ STRIDE and PASTA threat modeling tool with DFD builder, risk assessment matrix, 
 
 ## Features
 
-- **DFD Builder**: Drag-and-drop data flow diagram construction
-- **STRIDE Analysis**: Systematic threat enumeration
-- **Risk Scoring**: Likelihood × Impact matrix
-- **Control Mapping**: Threat → Control recommendation linking
-- **Threat Tree Visualization**: Attack path visualization
-- **Architecture Review**: Compliance framework mapping (GDPR, ISO27001)
-- **Export**: PDF reports and compliance documentation
+- DFD Builder: Drag-and-drop data flow diagram construction
+- STRIDE Analysis: Systematic threat enumeration
+- Risk Scoring: Likelihood x Impact matrix
+- Control Mapping: Threat -> Control recommendation linking
+- Threat Tree Visualization: Attack path visualization
+- Architecture Review: Compliance framework mapping (GDPR, ISO27001)
+- Export: PDF reports and compliance documentation
 
 ## Quick Start
 
@@ -25,12 +25,12 @@ Access: http://localhost:5000
 
 ## Threat Categories (STRIDE)
 
-- **S**poofing: Authentication & identity
-- **T**ampering: Data integrity & validation
-- **R**epudiation: Accountability & logging
-- **I**nformation Disclosure: Encryption & privacy
-- **D**enial of Service: Availability & resilience
-- **E**levation of Privilege: Authorization & access control
+- S - Spoofing: Authentication & identity
+- T - Tampering: Data integrity & validation
+- R - Repudiation: Accountability & logging
+- I - Information Disclosure: Encryption & privacy
+- D - Denial of Service: Availability & resilience
+- E - Elevation of Privilege: Authorization & access control
 
 ## Technologies
 
@@ -45,7 +45,7 @@ Python 3.9+ | Flask | D3.js (visualization) | STRIDE/PASTA methodologies
 
 ## Documentation
 
-Full methodology and case studies: [Case Study](https://korir555.github.io/cybersecurity-portfolio/projects/32-threat-modeling-suite/)
+Full methodology and case studies: Case Study
 
 ## License
 
